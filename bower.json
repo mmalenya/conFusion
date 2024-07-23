@@ -1,16 +1,15 @@
 {
-  "name": "conFusion",
+  "name": "Restaurant application",
   "version": "1.0.0",
-  "description": "Website for an awesome restaurant",
+  "description": "Restaurant Website ",
   "main": "index.html",
   "moduleType": [],
   "keywords": [
-    "conFusion",
-    "Fusion",
+    "web app",
     "Restaurant"
   ],
   "authors": [
-    "Jogesh Muppala"
+    "Marvin Sinzore"
   ],
   "license": "MIT",
   "homepage": "",
